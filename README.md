@@ -1,5 +1,3 @@
-### Introduction
-
 # Hi there, I'm Adri 👋
 I'm a passionate software developer with a love for creating innovative solutions and exploring new technologies.
 
