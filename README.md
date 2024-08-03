@@ -1,16 +1,40 @@
-## Hi there 👋
+### Introduction
 
-<!--
-**adrissh/adrissh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello 👋, I'm Adri
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Some Technical Stuff I Work With
+
+**👨‍💻 Programming Languages**
+
+* Go (Golang) | JavaScript | PHP |
+
+**🛠️ Libraries & Frameworks & Tools**
+
+* Node.js | Express.js | Flutter | GraphQL | ORM | React | Godot
+
+
+
+**✨ Software Architecture**
+
+* REST API | Microservices | Design Patterns | Event Driven Architecture (learning)
+
+
+
+**💾 Databases**
+
+* PostgreSQL | MongoDB | MySQL 
+
+
+
+**☁️ Cloud**
+
+* Firebase | AWS (S3, EC2, Lambda, API Gateway, DynamoDB)
+
+
+
+**🌐 DevOps**
+
+* Linux | Docker | Jenkins
