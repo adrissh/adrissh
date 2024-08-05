@@ -4,7 +4,6 @@ I'm a passionate software developer with a love for creating innovative solution
 
 # My Programming Skills & Tools
 
-### Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
